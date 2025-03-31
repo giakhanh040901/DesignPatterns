@@ -1,0 +1,14 @@
+D:\Workspace\DesignPatterns\CommandDemo1\bin\Debug\net8.0\CommandDemo1.exe
+D:\Workspace\DesignPatterns\CommandDemo1\bin\Debug\net8.0\CommandDemo1.deps.json
+D:\Workspace\DesignPatterns\CommandDemo1\bin\Debug\net8.0\CommandDemo1.runtimeconfig.json
+D:\Workspace\DesignPatterns\CommandDemo1\bin\Debug\net8.0\CommandDemo1.dll
+D:\Workspace\DesignPatterns\CommandDemo1\bin\Debug\net8.0\CommandDemo1.pdb
+D:\Workspace\DesignPatterns\CommandDemo1\obj\Debug\net8.0\CommandDemo1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\DesignPatterns\CommandDemo1\obj\Debug\net8.0\CommandDemo1.AssemblyInfoInputs.cache
+D:\Workspace\DesignPatterns\CommandDemo1\obj\Debug\net8.0\CommandDemo1.AssemblyInfo.cs
+D:\Workspace\DesignPatterns\CommandDemo1\obj\Debug\net8.0\CommandDemo1.csproj.CoreCompileInputs.cache
+D:\Workspace\DesignPatterns\CommandDemo1\obj\Debug\net8.0\CommandDemo1.dll
+D:\Workspace\DesignPatterns\CommandDemo1\obj\Debug\net8.0\refint\CommandDemo1.dll
+D:\Workspace\DesignPatterns\CommandDemo1\obj\Debug\net8.0\CommandDemo1.pdb
+D:\Workspace\DesignPatterns\CommandDemo1\obj\Debug\net8.0\CommandDemo1.genruntimeconfig.cache
+D:\Workspace\DesignPatterns\CommandDemo1\obj\Debug\net8.0\ref\CommandDemo1.dll

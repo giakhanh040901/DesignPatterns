@@ -1,0 +1,260 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workspace\\DesignPatterns\\AbstractFactoryPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{132A9D63-8F95-45B8-856E-0DF98DAF207F}|AbstractFactoryPattern.csproj|d:\\workspace\\designpatterns\\abstractfactorypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132A9D63-8F95-45B8-856E-0DF98DAF207F}|AbstractFactoryPattern.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132A9D63-8F95-45B8-856E-0DF98DAF207F}|AbstractFactoryPattern.csproj|d:\\workspace\\designpatterns\\abstractfactorypattern\\abstractfactory\\fourlegsanimalfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132A9D63-8F95-45B8-856E-0DF98DAF207F}|AbstractFactoryPattern.csproj|solutionrelative:abstractfactory\\fourlegsanimalfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132A9D63-8F95-45B8-856E-0DF98DAF207F}|AbstractFactoryPattern.csproj|d:\\workspace\\designpatterns\\abstractfactorypattern\\entities\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132A9D63-8F95-45B8-856E-0DF98DAF207F}|AbstractFactoryPattern.csproj|solutionrelative:entities\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132A9D63-8F95-45B8-856E-0DF98DAF207F}|AbstractFactoryPattern.csproj|d:\\workspace\\designpatterns\\abstractfactorypattern\\entities\\fourlegsanimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132A9D63-8F95-45B8-856E-0DF98DAF207F}|AbstractFactoryPattern.csproj|solutionrelative:entities\\fourlegsanimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132A9D63-8F95-45B8-856E-0DF98DAF207F}|AbstractFactoryPattern.csproj|d:\\workspace\\designpatterns\\abstractfactorypattern\\abstractfactory\\ifactoryanimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132A9D63-8F95-45B8-856E-0DF98DAF207F}|AbstractFactoryPattern.csproj|solutionrelative:abstractfactory\\ifactoryanimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132A9D63-8F95-45B8-856E-0DF98DAF207F}|AbstractFactoryPattern.csproj|d:\\workspace\\designpatterns\\abstractfactorypattern\\abstractfactory\\twolegsanimalfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132A9D63-8F95-45B8-856E-0DF98DAF207F}|AbstractFactoryPattern.csproj|solutionrelative:abstractfactory\\twolegsanimalfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132A9D63-8F95-45B8-856E-0DF98DAF207F}|AbstractFactoryPattern.csproj|d:\\workspace\\designpatterns\\abstractfactorypattern\\abstractfactory\\abstractfactoryanimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132A9D63-8F95-45B8-856E-0DF98DAF207F}|AbstractFactoryPattern.csproj|solutionrelative:abstractfactory\\abstractfactoryanimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132A9D63-8F95-45B8-856E-0DF98DAF207F}|AbstractFactoryPattern.csproj|d:\\workspace\\designpatterns\\abstractfactorypattern\\entities\\chicken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132A9D63-8F95-45B8-856E-0DF98DAF207F}|AbstractFactoryPattern.csproj|solutionrelative:entities\\chicken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132A9D63-8F95-45B8-856E-0DF98DAF207F}|AbstractFactoryPattern.csproj|d:\\workspace\\designpatterns\\abstractfactorypattern\\entities\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132A9D63-8F95-45B8-856E-0DF98DAF207F}|AbstractFactoryPattern.csproj|solutionrelative:entities\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132A9D63-8F95-45B8-856E-0DF98DAF207F}|AbstractFactoryPattern.csproj|d:\\workspace\\designpatterns\\abstractfactorypattern\\entities\\duck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132A9D63-8F95-45B8-856E-0DF98DAF207F}|AbstractFactoryPattern.csproj|solutionrelative:entities\\duck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132A9D63-8F95-45B8-856E-0DF98DAF207F}|AbstractFactoryPattern.csproj|d:\\workspace\\designpatterns\\abstractfactorypattern\\entities\\twolegsanimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132A9D63-8F95-45B8-856E-0DF98DAF207F}|AbstractFactoryPattern.csproj|solutionrelative:entities\\twolegsanimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132A9D63-8F95-45B8-856E-0DF98DAF207F}|AbstractFactoryPattern.csproj|d:\\workspace\\designpatterns\\abstractfactorypattern\\entities\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132A9D63-8F95-45B8-856E-0DF98DAF207F}|AbstractFactoryPattern.csproj|solutionrelative:entities\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TwoLegsAnimalFactory.cs",
+              "DocumentMoniker": "D:\\Workspace\\DesignPatterns\\AbstractFactoryPattern\\AbstractFactory\\TwoLegsAnimalFactory.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\TwoLegsAnimalFactory.cs",
+              "ToolTip": "D:\\Workspace\\DesignPatterns\\AbstractFactoryPattern\\AbstractFactory\\TwoLegsAnimalFactory.cs",
+              "RelativeToolTip": "AbstractFactory\\TwoLegsAnimalFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T04:37:25.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FourLegsAnimalFactory.cs",
+              "DocumentMoniker": "D:\\Workspace\\DesignPatterns\\AbstractFactoryPattern\\AbstractFactory\\FourLegsAnimalFactory.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\FourLegsAnimalFactory.cs",
+              "ToolTip": "D:\\Workspace\\DesignPatterns\\AbstractFactoryPattern\\AbstractFactory\\FourLegsAnimalFactory.cs",
+              "RelativeToolTip": "AbstractFactory\\FourLegsAnimalFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T04:37:14.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IFactoryAnimal.cs",
+              "DocumentMoniker": "D:\\Workspace\\DesignPatterns\\AbstractFactoryPattern\\AbstractFactory\\IFactoryAnimal.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\IFactoryAnimal.cs",
+              "ToolTip": "D:\\Workspace\\DesignPatterns\\AbstractFactoryPattern\\AbstractFactory\\IFactoryAnimal.cs",
+              "RelativeToolTip": "AbstractFactory\\IFactoryAnimal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T04:36:08.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AbstractFactoryAnimal.cs",
+              "DocumentMoniker": "D:\\Workspace\\DesignPatterns\\AbstractFactoryPattern\\AbstractFactory\\AbstractFactoryAnimal.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\AbstractFactoryAnimal.cs",
+              "ToolTip": "D:\\Workspace\\DesignPatterns\\AbstractFactoryPattern\\AbstractFactory\\AbstractFactoryAnimal.cs",
+              "RelativeToolTip": "AbstractFactory\\AbstractFactoryAnimal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T04:35:40.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TwoLegsAnimal.cs",
+              "DocumentMoniker": "D:\\Workspace\\DesignPatterns\\AbstractFactoryPattern\\Entities\\TwoLegsAnimal.cs",
+              "RelativeDocumentMoniker": "Entities\\TwoLegsAnimal.cs",
+              "ToolTip": "D:\\Workspace\\DesignPatterns\\AbstractFactoryPattern\\Entities\\TwoLegsAnimal.cs",
+              "RelativeToolTip": "Entities\\TwoLegsAnimal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T04:32:27.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FourLegsAnimal.cs",
+              "DocumentMoniker": "D:\\Workspace\\DesignPatterns\\AbstractFactoryPattern\\Entities\\FourLegsAnimal.cs",
+              "RelativeDocumentMoniker": "Entities\\FourLegsAnimal.cs",
+              "ToolTip": "D:\\Workspace\\DesignPatterns\\AbstractFactoryPattern\\Entities\\FourLegsAnimal.cs",
+              "RelativeToolTip": "Entities\\FourLegsAnimal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T04:32:17.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Chicken.cs",
+              "DocumentMoniker": "D:\\Workspace\\DesignPatterns\\AbstractFactoryPattern\\Entities\\Chicken.cs",
+              "RelativeDocumentMoniker": "Entities\\Chicken.cs",
+              "ToolTip": "D:\\Workspace\\DesignPatterns\\AbstractFactoryPattern\\Entities\\Chicken.cs",
+              "RelativeToolTip": "Entities\\Chicken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T04:31:47.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "D:\\Workspace\\DesignPatterns\\AbstractFactoryPattern\\Entities\\Cat.cs",
+              "RelativeDocumentMoniker": "Entities\\Cat.cs",
+              "ToolTip": "D:\\Workspace\\DesignPatterns\\AbstractFactoryPattern\\Entities\\Cat.cs",
+              "RelativeToolTip": "Entities\\Cat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T04:31:40.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Workspace\\DesignPatterns\\AbstractFactoryPattern\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Workspace\\DesignPatterns\\AbstractFactoryPattern\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T04:30:42.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAnimal.cs",
+              "DocumentMoniker": "D:\\Workspace\\DesignPatterns\\AbstractFactoryPattern\\Entities\\IAnimal.cs",
+              "RelativeDocumentMoniker": "Entities\\IAnimal.cs",
+              "ToolTip": "D:\\Workspace\\DesignPatterns\\AbstractFactoryPattern\\Entities\\IAnimal.cs",
+              "RelativeToolTip": "Entities\\IAnimal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T04:31:58.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Duck.cs",
+              "DocumentMoniker": "D:\\Workspace\\DesignPatterns\\AbstractFactoryPattern\\Entities\\Duck.cs",
+              "RelativeDocumentMoniker": "Entities\\Duck.cs",
+              "ToolTip": "D:\\Workspace\\DesignPatterns\\AbstractFactoryPattern\\Entities\\Duck.cs",
+              "RelativeToolTip": "Entities\\Duck.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T04:31:34.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "D:\\Workspace\\DesignPatterns\\AbstractFactoryPattern\\Entities\\Dog.cs",
+              "RelativeDocumentMoniker": "Entities\\Dog.cs",
+              "ToolTip": "D:\\Workspace\\DesignPatterns\\AbstractFactoryPattern\\Entities\\Dog.cs",
+              "RelativeToolTip": "Entities\\Dog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T04:31:28.28Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

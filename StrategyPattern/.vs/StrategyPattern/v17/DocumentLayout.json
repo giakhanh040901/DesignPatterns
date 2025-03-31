@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workspace\\DesignPatterns\\StrategyPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3A9234F-FA1A-47B9-A2D1-6217FC3F9804}|StrategyPattern.csproj|d:\\workspace\\designpatterns\\strategypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3A9234F-FA1A-47B9-A2D1-6217FC3F9804}|StrategyPattern.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3A9234F-FA1A-47B9-A2D1-6217FC3F9804}|StrategyPattern.csproj|d:\\workspace\\designpatterns\\strategypattern\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3A9234F-FA1A-47B9-A2D1-6217FC3F9804}|StrategyPattern.csproj|solutionrelative:ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3A9234F-FA1A-47B9-A2D1-6217FC3F9804}|StrategyPattern.csproj|d:\\workspace\\designpatterns\\strategypattern\\ipromotestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3A9234F-FA1A-47B9-A2D1-6217FC3F9804}|StrategyPattern.csproj|solutionrelative:ipromotestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3A9234F-FA1A-47B9-A2D1-6217FC3F9804}|StrategyPattern.csproj|d:\\workspace\\designpatterns\\strategypattern\\nodiscountstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3A9234F-FA1A-47B9-A2D1-6217FC3F9804}|StrategyPattern.csproj|solutionrelative:nodiscountstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3A9234F-FA1A-47B9-A2D1-6217FC3F9804}|StrategyPattern.csproj|d:\\workspace\\designpatterns\\strategypattern\\quaterdiscountstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3A9234F-FA1A-47B9-A2D1-6217FC3F9804}|StrategyPattern.csproj|solutionrelative:quaterdiscountstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3A9234F-FA1A-47B9-A2D1-6217FC3F9804}|StrategyPattern.csproj|d:\\workspace\\designpatterns\\strategypattern\\halfdiscountstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3A9234F-FA1A-47B9-A2D1-6217FC3F9804}|StrategyPattern.csproj|solutionrelative:halfdiscountstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HalfDiscountStrategy.cs",
+              "DocumentMoniker": "D:\\Workspace\\DesignPatterns\\StrategyPattern\\HalfDiscountStrategy.cs",
+              "RelativeDocumentMoniker": "HalfDiscountStrategy.cs",
+              "ToolTip": "D:\\Workspace\\DesignPatterns\\StrategyPattern\\HalfDiscountStrategy.cs",
+              "RelativeToolTip": "HalfDiscountStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T08:12:44.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuaterDiscountStrategy.cs",
+              "DocumentMoniker": "D:\\Workspace\\DesignPatterns\\StrategyPattern\\QuaterDiscountStrategy.cs",
+              "RelativeDocumentMoniker": "QuaterDiscountStrategy.cs",
+              "ToolTip": "D:\\Workspace\\DesignPatterns\\StrategyPattern\\QuaterDiscountStrategy.cs",
+              "RelativeToolTip": "QuaterDiscountStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T08:12:02.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NoDiscountStrategy.cs",
+              "DocumentMoniker": "D:\\Workspace\\DesignPatterns\\StrategyPattern\\NoDiscountStrategy.cs",
+              "RelativeDocumentMoniker": "NoDiscountStrategy.cs",
+              "ToolTip": "D:\\Workspace\\DesignPatterns\\StrategyPattern\\NoDiscountStrategy.cs",
+              "RelativeToolTip": "NoDiscountStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T08:11:10.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPromoteStrategy.cs",
+              "DocumentMoniker": "D:\\Workspace\\DesignPatterns\\StrategyPattern\\IPromoteStrategy.cs",
+              "RelativeDocumentMoniker": "IPromoteStrategy.cs",
+              "ToolTip": "D:\\Workspace\\DesignPatterns\\StrategyPattern\\IPromoteStrategy.cs",
+              "RelativeToolTip": "IPromoteStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T08:06:54.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "D:\\Workspace\\DesignPatterns\\StrategyPattern\\Ticket.cs",
+              "RelativeDocumentMoniker": "Ticket.cs",
+              "ToolTip": "D:\\Workspace\\DesignPatterns\\StrategyPattern\\Ticket.cs",
+              "RelativeToolTip": "Ticket.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAACAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T08:04:35.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Workspace\\DesignPatterns\\StrategyPattern\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Workspace\\DesignPatterns\\StrategyPattern\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T07:38:04.532Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

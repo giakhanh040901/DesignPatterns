@@ -1,0 +1,14 @@
+D:\Workspace\DesignPatterns\ObserverDemo1\bin\Debug\net8.0\ObserverDemo1.exe
+D:\Workspace\DesignPatterns\ObserverDemo1\bin\Debug\net8.0\ObserverDemo1.deps.json
+D:\Workspace\DesignPatterns\ObserverDemo1\bin\Debug\net8.0\ObserverDemo1.runtimeconfig.json
+D:\Workspace\DesignPatterns\ObserverDemo1\bin\Debug\net8.0\ObserverDemo1.dll
+D:\Workspace\DesignPatterns\ObserverDemo1\bin\Debug\net8.0\ObserverDemo1.pdb
+D:\Workspace\DesignPatterns\ObserverDemo1\obj\Debug\net8.0\ObserverDemo1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\DesignPatterns\ObserverDemo1\obj\Debug\net8.0\ObserverDemo1.AssemblyInfoInputs.cache
+D:\Workspace\DesignPatterns\ObserverDemo1\obj\Debug\net8.0\ObserverDemo1.AssemblyInfo.cs
+D:\Workspace\DesignPatterns\ObserverDemo1\obj\Debug\net8.0\ObserverDemo1.csproj.CoreCompileInputs.cache
+D:\Workspace\DesignPatterns\ObserverDemo1\obj\Debug\net8.0\ObserverDemo1.dll
+D:\Workspace\DesignPatterns\ObserverDemo1\obj\Debug\net8.0\refint\ObserverDemo1.dll
+D:\Workspace\DesignPatterns\ObserverDemo1\obj\Debug\net8.0\ObserverDemo1.pdb
+D:\Workspace\DesignPatterns\ObserverDemo1\obj\Debug\net8.0\ObserverDemo1.genruntimeconfig.cache
+D:\Workspace\DesignPatterns\ObserverDemo1\obj\Debug\net8.0\ref\ObserverDemo1.dll

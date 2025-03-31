@@ -1,0 +1,14 @@
+D:\Workspace\DesignPatterns\StrategyDemo\bin\Debug\net8.0\StrategyDemo.exe
+D:\Workspace\DesignPatterns\StrategyDemo\bin\Debug\net8.0\StrategyDemo.deps.json
+D:\Workspace\DesignPatterns\StrategyDemo\bin\Debug\net8.0\StrategyDemo.runtimeconfig.json
+D:\Workspace\DesignPatterns\StrategyDemo\bin\Debug\net8.0\StrategyDemo.dll
+D:\Workspace\DesignPatterns\StrategyDemo\bin\Debug\net8.0\StrategyDemo.pdb
+D:\Workspace\DesignPatterns\StrategyDemo\obj\Debug\net8.0\StrategyDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\DesignPatterns\StrategyDemo\obj\Debug\net8.0\StrategyDemo.AssemblyInfoInputs.cache
+D:\Workspace\DesignPatterns\StrategyDemo\obj\Debug\net8.0\StrategyDemo.AssemblyInfo.cs
+D:\Workspace\DesignPatterns\StrategyDemo\obj\Debug\net8.0\StrategyDemo.csproj.CoreCompileInputs.cache
+D:\Workspace\DesignPatterns\StrategyDemo\obj\Debug\net8.0\StrategyDemo.dll
+D:\Workspace\DesignPatterns\StrategyDemo\obj\Debug\net8.0\refint\StrategyDemo.dll
+D:\Workspace\DesignPatterns\StrategyDemo\obj\Debug\net8.0\StrategyDemo.pdb
+D:\Workspace\DesignPatterns\StrategyDemo\obj\Debug\net8.0\StrategyDemo.genruntimeconfig.cache
+D:\Workspace\DesignPatterns\StrategyDemo\obj\Debug\net8.0\ref\StrategyDemo.dll

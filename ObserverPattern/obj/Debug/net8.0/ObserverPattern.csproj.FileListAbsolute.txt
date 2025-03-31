@@ -1,0 +1,14 @@
+D:\Workspace\DesignPatterns\ObserverPattern\bin\Debug\net8.0\ObserverPattern.exe
+D:\Workspace\DesignPatterns\ObserverPattern\bin\Debug\net8.0\ObserverPattern.deps.json
+D:\Workspace\DesignPatterns\ObserverPattern\bin\Debug\net8.0\ObserverPattern.runtimeconfig.json
+D:\Workspace\DesignPatterns\ObserverPattern\bin\Debug\net8.0\ObserverPattern.dll
+D:\Workspace\DesignPatterns\ObserverPattern\bin\Debug\net8.0\ObserverPattern.pdb
+D:\Workspace\DesignPatterns\ObserverPattern\obj\Debug\net8.0\ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\DesignPatterns\ObserverPattern\obj\Debug\net8.0\ObserverPattern.AssemblyInfoInputs.cache
+D:\Workspace\DesignPatterns\ObserverPattern\obj\Debug\net8.0\ObserverPattern.AssemblyInfo.cs
+D:\Workspace\DesignPatterns\ObserverPattern\obj\Debug\net8.0\ObserverPattern.csproj.CoreCompileInputs.cache
+D:\Workspace\DesignPatterns\ObserverPattern\obj\Debug\net8.0\ObserverPattern.dll
+D:\Workspace\DesignPatterns\ObserverPattern\obj\Debug\net8.0\refint\ObserverPattern.dll
+D:\Workspace\DesignPatterns\ObserverPattern\obj\Debug\net8.0\ObserverPattern.pdb
+D:\Workspace\DesignPatterns\ObserverPattern\obj\Debug\net8.0\ObserverPattern.genruntimeconfig.cache
+D:\Workspace\DesignPatterns\ObserverPattern\obj\Debug\net8.0\ref\ObserverPattern.dll

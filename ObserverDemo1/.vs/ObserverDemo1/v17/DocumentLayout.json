@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workspace\\DesignPatterns\\ObserverDemo1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9056B19-BBD1-4FB4-9F5D-ECB81AEB872D}|ObserverDemo1.csproj|d:\\workspace\\designpatterns\\observerdemo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9056B19-BBD1-4FB4-9F5D-ECB81AEB872D}|ObserverDemo1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9056B19-BBD1-4FB4-9F5D-ECB81AEB872D}|ObserverDemo1.csproj|d:\\workspace\\designpatterns\\observerdemo1\\notifiers\\facebooknotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9056B19-BBD1-4FB4-9F5D-ECB81AEB872D}|ObserverDemo1.csproj|solutionrelative:notifiers\\facebooknotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9056B19-BBD1-4FB4-9F5D-ECB81AEB872D}|ObserverDemo1.csproj|d:\\workspace\\designpatterns\\observerdemo1\\videodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9056B19-BBD1-4FB4-9F5D-ECB81AEB872D}|ObserverDemo1.csproj|solutionrelative:videodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9056B19-BBD1-4FB4-9F5D-ECB81AEB872D}|ObserverDemo1.csproj|d:\\workspace\\designpatterns\\observerdemo1\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9056B19-BBD1-4FB4-9F5D-ECB81AEB872D}|ObserverDemo1.csproj|solutionrelative:subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9056B19-BBD1-4FB4-9F5D-ECB81AEB872D}|ObserverDemo1.csproj|d:\\workspace\\designpatterns\\observerdemo1\\observer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9056B19-BBD1-4FB4-9F5D-ECB81AEB872D}|ObserverDemo1.csproj|solutionrelative:observer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9056B19-BBD1-4FB4-9F5D-ECB81AEB872D}|ObserverDemo1.csproj|d:\\workspace\\designpatterns\\observerdemo1\\notifiers\\youtubenotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9056B19-BBD1-4FB4-9F5D-ECB81AEB872D}|ObserverDemo1.csproj|solutionrelative:notifiers\\youtubenotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "YoutubeNotifier.cs",
+              "DocumentMoniker": "D:\\Workspace\\DesignPatterns\\ObserverDemo1\\Notifiers\\YoutubeNotifier.cs",
+              "RelativeDocumentMoniker": "Notifiers\\YoutubeNotifier.cs",
+              "ToolTip": "D:\\Workspace\\DesignPatterns\\ObserverDemo1\\Notifiers\\YoutubeNotifier.cs",
+              "RelativeToolTip": "Notifiers\\YoutubeNotifier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T07:25:27.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FacebookNotifier.cs",
+              "DocumentMoniker": "D:\\Workspace\\DesignPatterns\\ObserverDemo1\\Notifiers\\FacebookNotifier.cs",
+              "RelativeDocumentMoniker": "Notifiers\\FacebookNotifier.cs",
+              "ToolTip": "D:\\Workspace\\DesignPatterns\\ObserverDemo1\\Notifiers\\FacebookNotifier.cs",
+              "RelativeToolTip": "Notifiers\\FacebookNotifier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T07:23:40.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VideoData.cs",
+              "DocumentMoniker": "D:\\Workspace\\DesignPatterns\\ObserverDemo1\\VideoData.cs",
+              "RelativeDocumentMoniker": "VideoData.cs",
+              "ToolTip": "D:\\Workspace\\DesignPatterns\\ObserverDemo1\\VideoData.cs",
+              "RelativeToolTip": "VideoData.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T07:21:11.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Observer.cs",
+              "DocumentMoniker": "D:\\Workspace\\DesignPatterns\\ObserverDemo1\\Observer.cs",
+              "RelativeDocumentMoniker": "Observer.cs",
+              "ToolTip": "D:\\Workspace\\DesignPatterns\\ObserverDemo1\\Observer.cs",
+              "RelativeToolTip": "Observer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T07:18:52.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "D:\\Workspace\\DesignPatterns\\ObserverDemo1\\Subject.cs",
+              "RelativeDocumentMoniker": "Subject.cs",
+              "ToolTip": "D:\\Workspace\\DesignPatterns\\ObserverDemo1\\Subject.cs",
+              "RelativeToolTip": "Subject.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T07:15:16.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Workspace\\DesignPatterns\\ObserverDemo1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Workspace\\DesignPatterns\\ObserverDemo1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T06:57:35.094Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

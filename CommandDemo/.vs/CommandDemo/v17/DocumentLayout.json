@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workspace\\DesignPatterns\\CommandDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A028B977-FD54-406E-807B-F343AA669947}|CommandDemo.csproj|d:\\workspace\\designpatterns\\commanddemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A028B977-FD54-406E-807B-F343AA669947}|CommandDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A028B977-FD54-406E-807B-F343AA669947}|CommandDemo.csproj|d:\\workspace\\designpatterns\\commanddemo\\turnoffcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A028B977-FD54-406E-807B-F343AA669947}|CommandDemo.csproj|solutionrelative:turnoffcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A028B977-FD54-406E-807B-F343AA669947}|CommandDemo.csproj|d:\\workspace\\designpatterns\\commanddemo\\turnoncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A028B977-FD54-406E-807B-F343AA669947}|CommandDemo.csproj|solutionrelative:turnoncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A028B977-FD54-406E-807B-F343AA669947}|CommandDemo.csproj|d:\\workspace\\designpatterns\\commanddemo\\remote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A028B977-FD54-406E-807B-F343AA669947}|CommandDemo.csproj|solutionrelative:remote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A028B977-FD54-406E-807B-F343AA669947}|CommandDemo.csproj|d:\\workspace\\designpatterns\\commanddemo\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A028B977-FD54-406E-807B-F343AA669947}|CommandDemo.csproj|solutionrelative:icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A028B977-FD54-406E-807B-F343AA669947}|CommandDemo.csproj|d:\\workspace\\designpatterns\\commanddemo\\fan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A028B977-FD54-406E-807B-F343AA669947}|CommandDemo.csproj|solutionrelative:fan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TurnOffCommand.cs",
+              "DocumentMoniker": "D:\\Workspace\\DesignPatterns\\CommandDemo\\TurnOffCommand.cs",
+              "RelativeDocumentMoniker": "TurnOffCommand.cs",
+              "ToolTip": "D:\\Workspace\\DesignPatterns\\CommandDemo\\TurnOffCommand.cs",
+              "RelativeToolTip": "TurnOffCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T11:24:15.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TurnOnCommand.cs",
+              "DocumentMoniker": "D:\\Workspace\\DesignPatterns\\CommandDemo\\TurnOnCommand.cs",
+              "RelativeDocumentMoniker": "TurnOnCommand.cs",
+              "ToolTip": "D:\\Workspace\\DesignPatterns\\CommandDemo\\TurnOnCommand.cs",
+              "RelativeToolTip": "TurnOnCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T11:23:12.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Fan.cs",
+              "DocumentMoniker": "D:\\Workspace\\DesignPatterns\\CommandDemo\\Fan.cs",
+              "RelativeDocumentMoniker": "Fan.cs",
+              "ToolTip": "D:\\Workspace\\DesignPatterns\\CommandDemo\\Fan.cs",
+              "RelativeToolTip": "Fan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T11:22:35.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Remote.cs",
+              "DocumentMoniker": "D:\\Workspace\\DesignPatterns\\CommandDemo\\Remote.cs",
+              "RelativeDocumentMoniker": "Remote.cs",
+              "ToolTip": "D:\\Workspace\\DesignPatterns\\CommandDemo\\Remote.cs",
+              "RelativeToolTip": "Remote.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T11:20:21.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "D:\\Workspace\\DesignPatterns\\CommandDemo\\ICommand.cs",
+              "RelativeDocumentMoniker": "ICommand.cs",
+              "ToolTip": "D:\\Workspace\\DesignPatterns\\CommandDemo\\ICommand.cs",
+              "RelativeToolTip": "ICommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T11:19:56.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Workspace\\DesignPatterns\\CommandDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Workspace\\DesignPatterns\\CommandDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T11:19:39.619Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

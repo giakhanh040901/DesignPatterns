@@ -1,0 +1,14 @@
+D:\Workspace\DesignPatterns\AbstractFactoryPattern\bin\Debug\net8.0\AbstractFactoryPattern.exe
+D:\Workspace\DesignPatterns\AbstractFactoryPattern\bin\Debug\net8.0\AbstractFactoryPattern.deps.json
+D:\Workspace\DesignPatterns\AbstractFactoryPattern\bin\Debug\net8.0\AbstractFactoryPattern.runtimeconfig.json
+D:\Workspace\DesignPatterns\AbstractFactoryPattern\bin\Debug\net8.0\AbstractFactoryPattern.dll
+D:\Workspace\DesignPatterns\AbstractFactoryPattern\bin\Debug\net8.0\AbstractFactoryPattern.pdb
+D:\Workspace\DesignPatterns\AbstractFactoryPattern\obj\Debug\net8.0\AbstractFactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\DesignPatterns\AbstractFactoryPattern\obj\Debug\net8.0\AbstractFactoryPattern.AssemblyInfoInputs.cache
+D:\Workspace\DesignPatterns\AbstractFactoryPattern\obj\Debug\net8.0\AbstractFactoryPattern.AssemblyInfo.cs
+D:\Workspace\DesignPatterns\AbstractFactoryPattern\obj\Debug\net8.0\AbstractFactoryPattern.csproj.CoreCompileInputs.cache
+D:\Workspace\DesignPatterns\AbstractFactoryPattern\obj\Debug\net8.0\AbstractFactoryPattern.dll
+D:\Workspace\DesignPatterns\AbstractFactoryPattern\obj\Debug\net8.0\refint\AbstractFactoryPattern.dll
+D:\Workspace\DesignPatterns\AbstractFactoryPattern\obj\Debug\net8.0\AbstractFactoryPattern.pdb
+D:\Workspace\DesignPatterns\AbstractFactoryPattern\obj\Debug\net8.0\AbstractFactoryPattern.genruntimeconfig.cache
+D:\Workspace\DesignPatterns\AbstractFactoryPattern\obj\Debug\net8.0\ref\AbstractFactoryPattern.dll
